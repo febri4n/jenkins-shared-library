@@ -1,7 +1,11 @@
+def call() {
+    "Febrian - DevOps Engineer"
+}
+
 def name() {
     "Febrian"
 }
 
-def channel() {
+def jobs() {
     "DevOps Engineer"
 }

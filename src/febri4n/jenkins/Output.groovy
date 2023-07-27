@@ -1,7 +1,9 @@
 package febri4n.jenkins;
 
 class Output {
-    static def hello(String name) {
-        println("Hello ${name}")
+
+    static def hello(Steps, String name) {
+        steps.echo("Hello ${name}")
     }
+
 }

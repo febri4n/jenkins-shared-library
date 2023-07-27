@@ -1,9 +1,7 @@
 package febri4n.jenkins;
 
-class Ouput {
-
+class Output {
     static def hello(String name) {
         println("Hello ${name}")
     }
-
 }
